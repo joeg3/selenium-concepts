@@ -16,7 +16,7 @@ bin/
 
 ### Gradle ###
 .gradle
-lib/build/
+/build/
 
 # Don't ignore Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
